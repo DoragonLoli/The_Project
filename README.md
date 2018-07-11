@@ -1,2 +1,4 @@
 # The_Project
-Aqui a gente vai postar os codigos do jogo sem nome 
+--------------------------------------------------------------------------------------------------
+Jogo sem nome criado no Game Maker Studio 2 por pessoas. Aqui vai estar todo o codigo provavelmente.
+ 
